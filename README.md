@@ -7,7 +7,7 @@ In the flight velocity estimation experiment, eight channels of data from the P1
 MLP_AOA_AOS.py is the training and testing code for the MLP model used for AOA and AOS estimation.
 MLP_velocity.py is the training and testing code for the MLP model for relative airflow velocity estimation.
 ## Dataset
-The AOA_AOS_10_ms-1 folder contains the training and testing sets at 10 ms^-1^ flow velocity.  
+The AOA_AOS_10_ms-1 folder contains the training and testing sets at 10 ms<sup>-1</sup> flow velocity.  
 The AOA_AOS_30_ms-1 folder contains the training and testing sets at 30 ms^-1^ flow velocity.  
 The Velocity_indoor folder contains the training and testing sets during indoor flight.  
 The Velocity_outdoor folder contains the training and testing sets during outdoor flight.  
