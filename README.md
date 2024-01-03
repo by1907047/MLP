@@ -13,9 +13,9 @@ The Velocity_indoor folder contains the training and testing sets during indoor 
 The Velocity_outdoor folder contains the training and testing sets during outdoor flight.  
 The training set is the same for both indoor and outdoor flights.
 ## Model
-The AOA_AOS_10_ms-1 folder includes the trained MLP models for the four input patterns at 10 m·s<sup>-1</sup> flow velocity.
-The AOA_AOS_30_ms-1 folder includes the trained MLP models for the four input patterns at 30 m·s<sup>-1</sup> flow velocity.
-The Velocity_indoor folder includes the trained MLP model for indoor flight.
-The Velocity_outdoor folder includes the trained MLP model for outdoor flight.
+The AOA_AOS_10_ms-1 folder includes the trained MLP models for the four input patterns at 10 m·s<sup>-1</sup> flow velocity.</br>
+The AOA_AOS_30_ms-1 folder includes the trained MLP models for the four input patterns at 30 m·s<sup>-1</sup> flow velocity.</br>
+The Velocity_indoor folder includes the trained MLP model for indoor flight.</br>
+The Velocity_outdoor folder includes the trained MLP model for outdoor flight.</br>
 ## Citation
 If you find the code helpful, please cite the paper:
